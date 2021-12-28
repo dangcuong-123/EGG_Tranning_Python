@@ -3,7 +3,7 @@
 Training for team AI  
 
 ## How to do exercises and submit
-- Fork this repo and clone this repo.
+- Fork this repo and clone repo.
 - Make a new git branch `feature/exercise_x`, where `x` is the exercises number.
 - Do your exercise using that branch.
 - Create a pull request (PR) to `main` branch and assign to `@dangcuong-123` for reviewing.
