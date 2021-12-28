@@ -1,6 +1,6 @@
-# EGG_Tranning_Python
+# EGG_Training_Python
 
-Tranning for team AI  
+Training for team AI  
 
 ## How to do exercises and submit
 - Clone this repo.
