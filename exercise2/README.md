@@ -1,4 +1,3 @@
-# Purpose of Week 1
 Get to know EDA (Exploratory Data Analysis)
 - `Pandas` for data loading, data cleaning 
 - `matplotlib`, `seaborn` for data visualization
