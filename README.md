@@ -4,7 +4,7 @@ Tranning for team AI
 
 ## How to do exercises and submit
 - Clone this repo.
-- Make a new git branch `feature/exp_x`, where `x` is the exercises number.
+- Make a new git branch `feature/exercise_x`, where `x` is the exercises number.
 - Do your exercise using that branch.
 - Create a pull request (PR) to `main` branch and assign to `@dangcuong-123` for reviewing.
 - `@dangcuong-123` will review, give feedback.
